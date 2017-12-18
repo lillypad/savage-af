@@ -1,3 +1,9 @@
+[![PyPI](https://img.shields.io/pypi/v/nine.svg)]()
+[![GitHub issues](https://img.shields.io/github/issues/lillypad/savage-af.svg)](https://github.com/lillypad/savage-af/issues)
+[![GitHub forks](https://img.shields.io/github/forks/lillypad/savage-af.svg)](https://github.com/lillypad/savage-af/network)
+[![GitHub stars](https://img.shields.io/github/stars/lillypad/savage-af.svg)](https://github.com/lillypad/savage-af/stargazers)
+[![GitHub license](https://img.shields.io/github/license/lillypad/savage-af.svg)](https://github.com/lillypad/savage-af)
+
 # Savage-AF
 
 Savage-AF is a modular CnC Generator used to overload IDS and IPS Systems.
